@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python-wheels/AVX2
+pydantic
